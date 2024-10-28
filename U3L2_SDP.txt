@@ -1,0 +1,2 @@
+The recursion factorial function end up with an error because it is called more than the limit. This is because roughly 1000 depth is the maximum depth a recursive function can go.
+For larger problems, recursion is a very bad idea because it will take up a lot of space, and depending on just how big it is, it might reach the maximum depth. While or For Loops are a lot better for large problems because they do not use nearly as much space as recursion does because recursion saves information every time it goes deeper.
